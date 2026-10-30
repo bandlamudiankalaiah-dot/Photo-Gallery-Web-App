@@ -1,0 +1,6 @@
+{
+  "name": "Photo Gallery Web App",
+  "description": "A responsive React photo gallery fetching from Picsum Photos API, with author search filter and persistent favourites managed with useReducer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
